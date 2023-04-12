@@ -14,6 +14,14 @@ export default defineConfig({
     },
     sourceMap: 'inline',
   },
+  test: {
+    coverage: {
+      provider: 'istanbul',
+      reporter: ['text', 'json', 'lcov'],
+    },
+    globals: true,
+    // environment: 'happy-dom',
+  },
   plugins: [
     eslintPlugin(),
   ],
