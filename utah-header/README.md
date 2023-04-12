@@ -1,5 +1,5 @@
 # Utah Header
-The Utah Header is part of the Utah Design System. It provides a common initial entry point experience for users of State of Utah websites. Please submit merge requests or start conversations with the Design System team for anything you would like to see incorporated in to the header.
+The Utah Header is part of the Utah Design System. It provides a common initial entry point experience for users of State of Utah websites. Please submit pull requests or start conversations with the Design System team for anything you would like to see incorporated in to the header.
 
 ## What's included
 
