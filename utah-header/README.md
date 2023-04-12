@@ -53,7 +53,7 @@ At a limited scale, some files have been pre-processed to CSS so that it can be 
 
 ```
 unpkg.com/:package@:version/:file
-unpkg.com/@utahdts/utah-design-system-header@0.1.0/dist/style.css
+unpkg.com/@utahdts/utah-design-system-header@0.4.1/dist/style.css
 
 Get latest
 unpkg.com/@utahdts/utah-design-system-header/dist/style.css
